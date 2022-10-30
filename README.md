@@ -7,3 +7,11 @@ POST: localhost:8080/clients
   "email": "john.rambo@mail.com"
 }
 ```
+
+Application build:
+
+mvn clean package
+
+Application url: 
+
+http://localhost:8080
